@@ -184,7 +184,7 @@ export default class App extends React.Component {
       <Container>
         <Header>
           <Body>
-            <Title>Stinder</Title>
+            <Title>Graduation Bucket List</Title>
           </Body>
         </Header>
         <Content>
